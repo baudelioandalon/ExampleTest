@@ -22,6 +22,9 @@ Notification
 * Se añadio un listener realtime para obtener las rutas de las imagenes que se vayan subiendo al storage
 para facilitar su visualizacion
 
+Flujo
+
+![test_AdobeExpress](https://user-images.githubusercontent.com/39423921/198044194-8ef20a09-e185-49dd-86a9-e07822d07cd9.gif)
 
 Puntos a mejorar
 
