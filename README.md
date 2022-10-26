@@ -7,6 +7,7 @@ Este proyecto fue hecho con el fin de aplicar las mejores practicas y tecnologia
 Se utilizó
 Retrofit
 Dagger
+Koin
 Room
 Modularizacion por aar
 Modularizacion por module
