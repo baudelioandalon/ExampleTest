@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExampleTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ExampleTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExampleTest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExampleTest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExampleTest.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExampleTest.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExampleTest.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExampleTest.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ExampleTest.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ExampleTest.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExampleTest.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/ExampleTest.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExampleTest.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ExampleTest.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExampleTest.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/ExampleTest.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonutils/ExampleTest.commonutils.iml" filepath="$PROJECT_DIR$/.idea/modules/commonutils/ExampleTest.commonutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/ExampleTest.features.iml" filepath="$PROJECT_DIR$/.idea/modules/features/ExampleTest.features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/one/ExampleTest.features.one.iml" filepath="$PROJECT_DIR$/.idea/modules/features/one/ExampleTest.features.one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/one/ExampleTest.features.one.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/one/ExampleTest.features.one.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/one/ExampleTest.features.one.main.iml" filepath="$PROJECT_DIR$/.idea/modules/features/one/ExampleTest.features.one.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/one/ExampleTest.features.one.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/one/ExampleTest.features.one.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/three/ExampleTest.features.three.iml" filepath="$PROJECT_DIR$/.idea/modules/features/three/ExampleTest.features.three.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/three/ExampleTest.features.three.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/three/ExampleTest.features.three.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/three/ExampleTest.features.three.main.iml" filepath="$PROJECT_DIR$/.idea/modules/features/three/ExampleTest.features.three.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/three/ExampleTest.features.three.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/three/ExampleTest.features.three.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/two/ExampleTest.features.two.iml" filepath="$PROJECT_DIR$/.idea/modules/features/two/ExampleTest.features.two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/two/ExampleTest.features.two.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/two/ExampleTest.features.two.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/two/ExampleTest.features.two.main.iml" filepath="$PROJECT_DIR$/.idea/modules/features/two/ExampleTest.features.two.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/two/ExampleTest.features.two.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/features/two/ExampleTest.features.two.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/ExampleTest.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/ExampleTest.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/core/ExampleTest.library.core.iml" filepath="$PROJECT_DIR$/.idea/modules/library/core/ExampleTest.library.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/core/ExampleTest.library.core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/core/ExampleTest.library.core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/core/ExampleTest.library.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/core/ExampleTest.library.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/core/ExampleTest.library.core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/core/ExampleTest.library.core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/ui-system/ExampleTest.library.ui-system.iml" filepath="$PROJECT_DIR$/.idea/modules/library/ui-system/ExampleTest.library.ui-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/ui-system/ExampleTest.library.ui-system.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/ui-system/ExampleTest.library.ui-system.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/ui-system/ExampleTest.library.ui-system.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/ui-system/ExampleTest.library.ui-system.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/ui-system/ExampleTest.library.ui-system.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/ui-system/ExampleTest.library.ui-system.unitTest.iml" />
+    </modules>
+  </component>
+</project>

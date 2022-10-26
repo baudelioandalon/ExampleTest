@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: app.futured.donut:library:2.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/94d347b28ee0374ebc2c81f620931b5d/transformed/jetified-library-2.1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/94d347b28ee0374ebc2c81f620931b5d/transformed/jetified-library-2.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/94d347b28ee0374ebc2c81f620931b5d/transformed/jetified-library-2.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/app.futured.donut/library/2.1.0/ceedee4c097b2aa7dd0c35f06defcc9b1403c301/library-2.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/app.futured.donut/library/2.1.0/de97facc2b2203d85d0eef9a3bbcd6fada0e4d27/library-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

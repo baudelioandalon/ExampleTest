@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/oneFragment">
+
+    <fragment
+        android:id="@+id/oneFragment"
+        android:name="com.boreal.test.one.ui.OneFragment"
+        android:label="OneFragment"
+        tools:layout="@layout/fragment_one" />
+
+    <fragment
+        android:id="@+id/twoFragment"
+        android:name="com.boreal.test.two.ui.TwoFragment"
+        android:label="TwoFragment"
+        tools:layout="@layout/fragment_two" />
+
+    <fragment
+        android:id="@+id/threeFragment"
+        android:name="com.boreal.test.three.ui.ThreeFragment"
+        android:label="ThreeFragment"
+        tools:layout="@layout/fragment_three" />
+
+</navigation>

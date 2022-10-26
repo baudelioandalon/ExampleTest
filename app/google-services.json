@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141108668318",
+    "project_id": "test-acdba",
+    "storage_bucket": "test-acdba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141108668318:android:d90bd2dae8dfa82847588f",
+        "android_client_info": {
+          "package_name": "com.boreal.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141108668318-j6rkc4mhrmqv803g3r6ulj730hi9f13q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKcxevWD7E3mMWJcLK_x4RJddLjvUs7ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141108668318-j6rkc4mhrmqv803g3r6ulj730hi9f13q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
