@@ -24,7 +24,8 @@ para facilitar su visualizacion
 
 Flujo
 
-![test_AdobeExpress](https://user-images.githubusercontent.com/39423921/198044194-8ef20a09-e185-49dd-86a9-e07822d07cd9.gif)
+![test_AdobeExpress (1)](https://user-images.githubusercontent.com/39423921/198044969-6b43279f-c6e8-4078-9bb8-0e02ef7a3aff.gif)
+
 
 Puntos a mejorar
 
