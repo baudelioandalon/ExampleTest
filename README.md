@@ -18,6 +18,9 @@ Localizacion
 Permisos en runtime
 Notification
 
+* Se añadio un listener realtime para obtener las rutas de las imagenes que se vayan subiendo al storage
+para facilitar su visualizacion
+
 
 Puntos a mejorar
 
